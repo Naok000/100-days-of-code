@@ -10,7 +10,7 @@
   アルゴリズム周りは、勉強不足なので追々やっていこうかなと思う。
   
 **link**
-1-Udemy(https://www.udemy.com/course/advanced-javascript-concepts/)
+1-Javascript:The_Advanced_Concepts[https://www.udemy.com/course/advanced-javascript-concepts/]
 
 ### 1日目: 2020年10月21日（水）
 
