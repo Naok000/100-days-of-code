@@ -16,7 +16,7 @@
 
 **今日の進捗**
  - 1 Udemy: Javascript: The Advanced Concepts course finish
-            -Javascript web Projects: 20 Projects course started 
+           - Javascript web Projects: 20 Projects course started 
  - 2 freeCodeCamp: Responsive Web Design Certification started
  
  **思ったこと**
