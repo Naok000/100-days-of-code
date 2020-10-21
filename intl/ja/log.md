@@ -11,3 +11,16 @@
   
 **link**
 1-Udemy(https://www.udemy.com/course/advanced-javascript-concepts/)
+
+### 1日目: 2020年10月21日（水）
+
+**今日の進捗**
+ - 1 Udemy: Javascript: The Advanced Concepts course finish
+            Javascript web Projects: 20 Projects course started 
+ - 2 freeCodeCamp: Responsive Web Design Certification started
+ 
+ **思ったこと**
+  - Javascriptに関しては、まだまだ深く理解できていないので今日終わったコース周回するか、
+  　似たような別のコースを復習としてやるか、別のコースやりながら息抜きとしてやろうと思う。
+  - このチャレンジ始める前のここ一か月間、自主学習を全然してなかったから復習もかねてfreeCodeCampのResponsive Web Designからやってみようと思う
+
