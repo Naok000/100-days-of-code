@@ -12,7 +12,7 @@
 **link**
 1-Javascript:The_Advanced_Concepts[https://www.udemy.com/course/advanced-javascript-concepts/]
 
-### 1日目: 2020年10月21日（水）
+### 2日目: 2020年10月21日（水）
 
 **今日の進捗**
  - 1 Udemy: Javascript: The Advanced Concepts course finish
@@ -23,4 +23,13 @@
   - Javascriptに関しては、まだまだ深く理解できていないので今日終わったコース周回するか、
   　似たような別のコースを復習としてやるか、別のコースやりながら息抜きとしてやろうと思う。
   - このチャレンジ始める前のここ一か月間、自主学習を全然してなかったから復習もかねてfreeCodeCampのResponsive Web Designからやってみようと思う
+  
+### 3日目: 2020年10月22日（木）
+**今日の進捗**
+ - Udemy: JavaScript Web Projects: 20 Projects to Build Your Portfolio Section3: quote generator makeing
+   
+**思ったこと**
+ - 今のところ自分のポートフォリオとして明確に作りたいアプリとかがあるわけではないので、コースをやりながら自分が作りたいものを考えていこうと思う。
+   現在のコース進捗だと既存の部分が多いので復習しながらやっていって、吸収できるところは取り入れていきたいと思う。
+ 
 
