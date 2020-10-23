@@ -34,7 +34,8 @@
    
 ### 4日目: 2020年10月23日（金）
 **今日の進捗**
-　- Udemy: JavaScript Web Projects: 20 Projects to Build Your Portfolio Section3: quote generator finish
+ - Udemy: JavaScript Web Projects: 20 Projects to Build Your Portfolio Section3: quote generator finish
+ 
 **思ったこと**
  - 昨日に引き続きコースの勉強。前にAPIの練習のために作ったポケモン図鑑で嵌ったcorsの回避方法の一つを知れてよかったと思う。
  　コースの動画を見てコーディングしているだけになってる時もあるので自分でも時間があるときは何か機能の追加をしていこうと思う。
