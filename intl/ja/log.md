@@ -50,3 +50,22 @@
  　freeCodeCampに関しては、復習もかねてResponsive Web Design Certificationのコースは、チャレンジ20日目ぐらいまでには終わらしたい。
   いまudemyでやってるコースもあと10から15日ぐらいかけて終わらせて、ui/uxについて学びたいのでそのコースをやろうかなと思う。
   自分のポートフォリオサイトは3か月入るか入らないかぐらいのところで完成できるようには進めていけるようにする。
+  
+
+### 6日目: 2020年10月26日（月）
+**今日の進捗**
+ - Udemy: JavaScript Web Projects: 20 Projects to Build Your Portfolio Section4: infinit scroll
+ 
+**思ったこと**
+ - 日曜は、仕事が10時に終わって遅かったので明日のことを考えて休止。やはり体調を考えながらやるのが学習効率を上げると思うので、体調管理は万全にしようと思った。
+   学習時間トータル一時間ぐらいだけどやらないより少しでもやって継続していこうと思う。
+   
+### 7日目: 2020年10月27日（火）
+**今日の進捗**
+ - Udemy: JavaScript Web Projects: 20 Projects to Build Your Portfolio Section4: infinit scroll finished
+ - Udemy: JavaScript Web Projects: 20 Projects to Build Your Portfolio Section5: Picture in Picture finished
+ - Section6: Joke Teller started
+ 
+**思ったこと**
+ - 今日は、休みだったので予定との兼ね合いで少し短いけど学習。どうしてそのようなコードを書くのか、仕組みはどうなっているのか考えながらやらなきゃ身にならない気がするので、変数名の一つをとっても
+ 　誰からも読みやすいコードを考えることを習慣づけたい。
