@@ -72,5 +72,5 @@
 
 ### 8日目: 2020年10月28日（水）
 **今日の進捗**
- - Udemy: JavaScript Web Projects: 20 Projects to Build Your Portfolio Section6: Joke Teller started
+ - Udemy: JavaScript Web Projects: 20 Projects to Build Your Portfolio Section6: Joke Teller
  
