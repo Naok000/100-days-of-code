@@ -74,3 +74,9 @@
 **今日の進捗**
  - Udemy: JavaScript Web Projects: 20 Projects to Build Your Portfolio Section6: Joke Teller
  
+### 9日目: 2020年10月31日（土）
+**今日の進捗**
+ - Udemy: JavaScript Web Projects: 20 Projects to Build Your Portfolio Section6: Joke Teller
+ 
+**思ったこと**
+ - いかんせんこの数日仕事が忙しくて疲れ気味だったのでチャレンジの二日は日にちを空けないを達成できなかった。また、心機一転日にちを空けないように体調管理をしながら学習していこうと思う。
