@@ -80,3 +80,25 @@
  
 **思ったこと**
  - いかんせんこの数日仕事が忙しくて疲れ気味だったのでチャレンジの二日は日にちを空けないを達成できなかった。また、心機一転日にちを空けないように体調管理をしながら学習していこうと思う。
+
+### 10日目: 2020年11月1日（月）
+**今日の進捗**
+ - Udemy: JavaScript Web Projects: 20 Projects to Build Your Portfolio Section6: Joke Teller　finished
+ - Section7: Dark and Light Mode started
+
+### 11日目: 2020年11月3日（火）
+**今日の進捗**
+ - Udemy: JavaScript Web Projects: 20 Projects to Build Your Portfolio Section7: Dark and Light Mode finished
+ - Section8: Animation template started
+ 
+### 12日目: 2020年11月4日（水）
+**今日の進捗**
+ - Udemy: JavaScript Web Projects: 20 Projects to Build Your Portfolio Section8: Animation template finished
+ - Section9: Navigation Nation finished
+ 
+**思ったこと**
+ - 休みの日はある程度、時間が取れるので勉強もはかどる。仕事がある日は、仕事後やるとモチベーションも落ちてるし睡眠の質も悪くなるので、朝早起きして出勤前に学習しようと思う。
+ - ドライコードを書かないように意識したり、html,css,javascriptファイルの実行順によってのウェブページ表示のパフォーマンスもユーザービリティに繋がるので考えるようにしようと思った。
+
+**link**
+ - JavaScript Web Projects: 20 Projects to Build Your Portfolio [https://www.udemy.com/course/javascript-web-projects-to-build-your-portfolio-resume/]
