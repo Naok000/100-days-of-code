@@ -99,6 +99,7 @@
 **思ったこと**
  - 休みの日はある程度、時間が取れるので勉強もはかどる。仕事がある日は、仕事後やるとモチベーションも落ちてるし睡眠の質も悪くなるので、朝早起きして出勤前に学習しようと思う。
  - ドライコードを書かないように意識したり、html,css,javascriptファイルの実行順によってのウェブページ表示のパフォーマンスもユーザービリティに繋がるので考えるようにしようと思った。
+ - なるべくgoogle翻訳を使わずにドキュメントを読んだり学習したいので、英語の勉強も追々始めていこうと思う。
 
 **link**
  - JavaScript Web Projects: 20 Projects to Build Your Portfolio [https://www.udemy.com/course/javascript-web-projects-to-build-your-portfolio-resume/]
