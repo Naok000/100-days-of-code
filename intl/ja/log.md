@@ -81,7 +81,7 @@
 **思ったこと**
  - いかんせんこの数日仕事が忙しくて疲れ気味だったのでチャレンジの二日は日にちを空けないを達成できなかった。また、心機一転日にちを空けないように体調管理をしながら学習していこうと思う。
 
-### 10日目: 2020年11月1日（月）
+### 10日目: 2020年11月1日（日）
 **今日の進捗**
  - Udemy: JavaScript Web Projects: 20 Projects to Build Your Portfolio Section6: Joke Teller　finished
  - Section7: Dark and Light Mode started
@@ -102,4 +102,18 @@
  - なるべくgoogle翻訳を使わずにドキュメントを読んだり学習したいので、英語の勉強も追々始めていこうと思う。
 
 **link**
- - JavaScript Web Projects: 20 Projects to Build Your Portfolio [https://www.udemy.com/course/javascript-web-projects-to-build-your-portfolio-resume/]
+ - [JavaScript Web Projects: 20 Projects to Build Your Portfolio](https://www.udemy.com/course/javascript-web-projects-to-build-your-portfolio-resume/)
+
+### 13日目: 2020年11月6日 (金)
+**今日の進捗**
+ - Udemy: JavaScript Web Projects: 20 Projects to Build Your Portfolio Section10: music player finished
+ - Section11: custom countdown
+ 
+**思ったこと**
+ - 本日は、あまり学習が進まなかった。休日は二度寝しがちなので気を付ける。javascriptの復習として先月やったandreiのコースも理解していない部分があるのでもう一度見直しを図ろうと思う。
+ - また、結構前に買ったコースで似たようなのがあるので、今やってるコースと並行して復習としてやっていこうと思う。
+
+**link**
+ - [JavaScript Web Projects: 20 Projects to Build Your Portfolio](https://www.udemy.com/course/javascript-web-projects-to-build-your-portfolio-resume/)
+ - 今後、並行してやっていくコース:[The Complete JavaScript Course 2020: From Zero to Expert!](https://www.udemy.com/course/the-complete-javascript-course/)
+ - 今後、復習: [Javascript:The_Advanced_Concepts](https://www.udemy.com/course/advanced-javascript-concepts/)
