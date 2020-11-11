@@ -117,3 +117,17 @@
  - [JavaScript Web Projects: 20 Projects to Build Your Portfolio](https://www.udemy.com/course/javascript-web-projects-to-build-your-portfolio-resume/)
  - 今後、並行してやっていくコース:[The Complete JavaScript Course 2020: From Zero to Expert!](https://www.udemy.com/course/the-complete-javascript-course/)
  - 今後、復習: [Javascript:The_Advanced_Concepts](https://www.udemy.com/course/advanced-javascript-concepts/)
+ 
+### 14日目: 2020年11月7日 (土)
+**今日の進捗**
+ - Section11: custom countdown in the middle
+ 
+### 15-16日目: 2020年11月8日 (日)　～　2020年11月9日 (月)
+**今日の進捗**
+ - Udemy: JavaScript Web Projects: 20 Projects to Build Your Portfolio Section11: custom countdown　finished
+ - Section12: bookKeeper started
+
+### 17日目: 2020年11月11日 (水)
+**今日の進捗**
+ - Section12: bookKeeper in the middle
+ 
